@@ -5,6 +5,10 @@ const Testimonials = () => {
 	return (
 		<>
 			<div className="container mt-5 mb-5 testi">
+				<div className="d-flex justify-content-center">
+					<h2>WHAT KIDS ARE SAYING ABOUT US</h2>
+				</div>
+				<hr/>
 				<div className="row g-2">
 					<div className="col-md-4">
 						<div className="card p-3 text-center px-4">

@@ -3,10 +3,10 @@ import React from "react";
 const Navbar = () => {
 	return (
 		<>
-			<nav className="navbar navbar-expand-lg navbar-light bg-light">
+			<nav className="navbar navbar-expand-lg navbar-light bg-light position-sticky top-0 " style={{"z-index":"100"}}>
 				<div className="container-fluid">
 					<a className="navbar-brand" href="#">
-						Navbar
+						Alsafa
 					</a>
 					<button
 						className="navbar-toggler"

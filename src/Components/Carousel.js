@@ -46,6 +46,34 @@ const Carousel = () => {
 								className="d-block w-100 "
 								alt="..."
 							/>
+							<div class="carousel-caption d-none d-md-block">
+								<div>
+									<div className="card text-center bg-success">
+										<div className="card-header">
+											Featured
+										</div>
+										<div className="card-body">
+											<h1 className="card-title">
+												Special title treatment
+											</h1>
+											<p className="card-text">
+												With supporting text below as a
+												natural lead-in to additional
+												content.
+											</p>
+											<a
+												href="#"
+												className="btn btn-primary"
+											>
+												Button
+											</a>
+										</div>
+										<div className="card-footer text-muted">
+											2 days ago
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 						<div className="carousel-item">
 							<img
