@@ -1,0 +1,94 @@
+.CharitableSec {
+    float: left;
+    width: 100%;
+    margin: 50px auto;
+    min-height: 640px;
+}
+.SponsorDetail .SponserCatBlock .Sponser_Footer ul li:last-child {
+    margin: 0 auto;
+    float: right;
+}
+.SectionNew1 .SponsorText .BtnSec ul li:last-child {
+    float: right;
+}
+.SectionNew1 .SponsorText .BtnSec ul li #one_click_checkout{
+    margin:0;
+}
+.ZakatSecnew {
+    margin: 50px auto;
+}
+.txt_dc {
+    padding: 10px 0;
+}
+.CharitableSec .SponsorText .form-group ul li small{
+	margin: 10px 0;
+}
+.SponsorshipSec .NewBlockSection .Sponser_Footer ul li:last-child{
+	float:right;
+}
+.CharitableSec .SponsorText .form-group ul li {
+    display: inline-block;
+}
+.progress { 
+    -webkit-box-shadow: inset 0 1px 2px rgb(0 0 0 / 50%);
+    box-shadow: inset 0 1px 2px rgb(0 0 0 / 50%);
+    background-color:#FFFFFF;
+}
+.SectionNew1 .SponsorText .form-group ul li small{
+	    margin: 5px auto 0;
+}
+.SectionNew1 .SponsorText .BtnSec ul {
+    text-align: center;
+}
+.SectionNew1 .SponsorText .BtnSec ul li:only-child {
+    float: none;
+    display: inline-block;
+    margin:0 auto;
+}
+/*.ZakatSecnew .progress{
+	padding:0 5px;
+}*/
+footer .FootTop form .form-control{
+	width:70%;
+}
+footer .FootTop form .btn-default{
+	width:30%;
+}
+.progress-bar {
+        background:#3c9bd7 !important;
+}
+.progress-value {
+        color:#000 !important;
+}
+
+
+
+
+@media only screen and (min-width:320px) and (max-width:767px) { 
+	.CharitableSec .SponsorImg{
+		height:inherit;
+	}
+	.CharitableSec{
+		margin:40px auto 0;
+	}
+	.ZakatSecnew {
+	    margin: 20px auto;
+	}
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) { 
+	.CharitableSec .SponsorImg{
+		height:inherit;
+	}
+	.CharitableSec{
+		margin:40px auto 0;
+	}
+	.ZakatSecnew {
+	    margin: 40px auto;
+	}
+}
+@media only screen and (min-width:320px) and (max-width:480px) {
+	.Sponser_Footer ul li:nth-of-type(even) .btn-default {
+	    margin: 0px auto;
+	}
+}
