@@ -15,7 +15,7 @@ const Zakat1 = () => {
         <div className="col-md-12">
           <div className="SponsorshipText">
             {/* <h2>CHARITABLE PROJECTS</h2>
-                  <div class="BorderBlock"><img src="http://www.alsafakw.org/images/drop.jpg" /> <span></span></div>
+                  <div class="BorderBlock"><img src="/images/drop.jpg" /> <span></span></div>
                   <p>INTEGER AMET AUGUE IACULIS, ULTRICIES JUSTO NEC, COMMODO NISI. CLASS APTENT TACITI SOCIOSQU AD LITORA TORQUENT PER CONUBIA NOSTRA.</p> */}
             <h2>ZAKAT</h2>
             <div className="BorderBlock"><img src={ZakatImg} alt /><span /></div>
@@ -38,13 +38,13 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={ZakatImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTA" tabIndex={-1}><span>sdfsdfgseee ewe er</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/MTA" tabIndex={-1}><span>sdfsdfgseee ewe er</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p><span id>name </span>
@@ -52,7 +52,7 @@ const Zakat1 = () => {
                               </div>
                               <div className="BtnSec">
                                 <ul>
-                                  <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTA" tabIndex={-1}>DONATE NOW</a></li>
+                                  <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/MTA" tabIndex={-1}>DONATE NOW</a></li>
                                 </ul>
                               </div>
                               <div className="progress blue">
@@ -77,13 +77,13 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/contact_header.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTE" tabIndex={-1}><span>scvsdvsdfsdvsvdsdsvd</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/MTE" tabIndex={-1}><span>scvsdvsdfsdvsvdsdsvd</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p>&nbsp;scvsdvsdfsdvsvdsdsvd</p>
@@ -93,7 +93,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTE" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/MTE" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -117,13 +117,13 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/ballot_box_1_1_3.png" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTI" tabIndex={-1}><span>Office Building</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/MTI" tabIndex={-1}><span>Office Building</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed feugiat o....							    		</p>
@@ -131,7 +131,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTI" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/MTI" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -155,18 +155,18 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/pay_donation/pay_your_zakat" tabIndex={0}>
+                            <a href="/pay_donation/pay_your_zakat" tabIndex={0}>
                               <div className="Overlay" />
                               <img src={ZakatImg} />
                             </a>
                           </div>
                           <div className="SponsorText">
                             <h1><span>ZAKAT</span></h1>
-                            <h2><a href="http://www.alsafakw.org/#" tabIndex={0}>Pay Your Zakat</a></h2>
+                            <h2><a href="/#" tabIndex={0}>Pay Your Zakat</a></h2>
                             <div className="TextHeight">
                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed feugiat orci. Fusce sit amet lorem pretium, eleifend orci id, pretium nisi....</p>
                             </div>
-                            <form method="post" action="http://www.alsafakw.org/pay_donation/pay_your_zakat">
+                            <form method="post" action="/pay_donation/pay_your_zakat">
                               <div className="form-group">
                                 <ul>
                                   <li><small>Pay Your Zakat</small></li>
@@ -180,7 +180,7 @@ const Zakat1 = () => {
                               </div>
                               <span id="pay_zakat_amterrss" style={{color: 'red'}} />
                             </form>
-                            {/* <img class="borderImg" src="http://www.alsafakw.org/images/border.jpg" /> */}
+                            {/* <img class="borderImg" src="/images/border.jpg" /> */}
                           </div>
                         </div>
                       </li>
@@ -191,23 +191,23 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/zakat_calculator" tabIndex={0}>
+                            <a href="/zakat_calculator" tabIndex={0}>
                               <div className="Overlay" />
                               <img src={ZakatImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
                             <h1><span>ZAKATt</span></h1>
-                            <h2><a href="http://www.alsafakw.org/#" tabIndex={0}>Calculate Your Zakat</a></h2>
+                            <h2><a href="/#" tabIndex={0}>Calculate Your Zakat</a></h2>
                             <div className="TextCon">
                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed feugiat orci. Fusce sit amet lorem pretium, eleifend orci id, pretium nisi....</p>
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li className="Full"><a target="_blank" className="btn btn-default" href="http://www.alsafakw.org/zakat_calculator" tabIndex={0}>Calculate Your Zakat</a></li>
+                                <li className="Full"><a target="_blank" className="btn btn-default" href="/zakat_calculator" tabIndex={0}>Calculate Your Zakat</a></li>
                               </ul>
                             </div>
-                            {/* <img class="borderImg" src="http://www.alsafakw.org/images/border.jpg" /> */}
+                            {/* <img class="borderImg" src="/images/border.jpg" /> */}
                           </div>
                         </div>
                       </li>
@@ -219,13 +219,13 @@ const Zakat1 = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={0}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={0}>
                               <div className="Overlay" />
                               <img src={ZakatImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={0}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MQ" tabIndex={0}><span>Zakat Foundation</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={0}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/MQ" tabIndex={0}><span>Zakat Foundation</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lo....							    		</p>
@@ -233,7 +233,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MQ" tabIndex={0}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/MQ" tabIndex={0}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -258,13 +258,13 @@ const Zakat1 = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/banner03.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/Mg" tabIndex={-1}><span>wewewe</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/Mg" tabIndex={-1}><span>wewewe</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lo....							    		</p>
@@ -272,7 +272,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/Mg" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/Mg" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -297,13 +297,13 @@ const Zakat1 = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/BannerImg2.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/Mw" tabIndex={-1}><span>zakat demo4</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/Mw" tabIndex={-1}><span>zakat demo4</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem....							    		
@@ -311,7 +311,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/Mw" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/Mw" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -335,13 +335,13 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/banner.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/NA" tabIndex={-1}><span>alm demo4</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/NA" tabIndex={-1}><span>alm demo4</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lo....							    		</p>
@@ -349,7 +349,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/NA" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/NA" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -374,13 +374,13 @@ const Zakat1 = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/projectImg511.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/NQ" tabIndex={-1}><span>atonement2</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/NQ" tabIndex={-1}><span>atonement2</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lo....							    		</p>
@@ -388,7 +388,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/NQ" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/NQ" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -413,13 +413,13 @@ const Zakat1 = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/projectImg1.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/Ng" tabIndex={-1}><span>realities4</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/Ng" tabIndex={-1}><span>realities4</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry.							    		
@@ -427,7 +427,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/Ng" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/Ng" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -452,13 +452,13 @@ const Zakat1 = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/projectImg2.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/Nw" tabIndex={-1}><span>sacrifies demo</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/Nw" tabIndex={-1}><span>sacrifies demo</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry.							    		
@@ -466,7 +466,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/Nw" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/Nw" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -491,13 +491,13 @@ const Zakat1 = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/projectImg4.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/OA" tabIndex={-1}><span>zakat testing project</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/OA" tabIndex={-1}><span>zakat testing project</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem....							    		
@@ -505,7 +505,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/OA" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/OA" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -529,13 +529,13 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/projectImg52.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/OQ" tabIndex={-1}><span>My Zakat</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/OQ" tabIndex={-1}><span>My Zakat</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 Zakat Foundation of America embodies the inclusive beauty of Islam through progr....							    		
@@ -543,7 +543,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/OQ" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/OQ" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -567,13 +567,13 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/food_basket1_(1).jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTA" tabIndex={-1}><span>sdfsdfgseee ewe er</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/MTA" tabIndex={-1}><span>sdfsdfgseee ewe er</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p><span id="docs-internal-guid-fb5230b3-7fff-c765-21ab-7cfc45e0522e">name </span>
@@ -581,7 +581,7 @@ const Zakat1 = () => {
                               </div>
                               <div className="BtnSec">
                                 <ul>
-                                  <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTA" tabIndex={-1}>DONATE NOW</a></li>
+                                  <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/MTA" tabIndex={-1}>DONATE NOW</a></li>
                                 </ul>
                               </div>
                               <div className="progress blue">
@@ -606,13 +606,13 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/contact_header.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTE" tabIndex={-1}><span>scvsdvsdfsdvsvdsdsvd</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/MTE" tabIndex={-1}><span>scvsdvsdfsdvsvdsdsvd</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p>&nbsp;scvsdvsdfsdvsvdsdsvd</p>
@@ -622,7 +622,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTE" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/MTE" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -646,13 +646,13 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/ballot_box_1_1_3.png" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTI" tabIndex={-1}><span>Office Building</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/MTI" tabIndex={-1}><span>Office Building</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed feugiat o....							    		</p>
@@ -660,7 +660,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTI" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/MTI" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -684,18 +684,18 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/pay_donation/pay_your_zakat" tabIndex={-1}>
+                            <a href="/pay_donation/pay_your_zakat" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/charitableImg1.jpg" />
                             </a>
                           </div>
                           <div className="SponsorText">
                             <h1><span>ZAKAT</span></h1>
-                            <h2><a href="http://www.alsafakw.org/#" tabIndex={-1}>Pay Your Zakat</a></h2>
+                            <h2><a href="/#" tabIndex={-1}>Pay Your Zakat</a></h2>
                             <div className="TextHeight">
                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed feugiat orci. Fusce sit amet lorem pretium, eleifend orci id, pretium nisi....</p>
                             </div>
-                            <form method="post" action="http://www.alsafakw.org/pay_donation/pay_your_zakat">
+                            <form method="post" action="/pay_donation/pay_your_zakat">
                               <div className="form-group">
                                 <ul>
                                   <li><small>Pay Your Zakat</small></li>
@@ -709,7 +709,7 @@ const Zakat1 = () => {
                               </div>
                               <span id style={{color: 'red'}} />
                             </form>
-                            {/* <img class="borderImg" src="http://www.alsafakw.org/images/border.jpg" /> */}
+                            {/* <img class="borderImg" src="/images/border.jpg" /> */}
                           </div>
                         </div>
                       </li>
@@ -720,23 +720,23 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/zakat_calculator" tabIndex={-1}>
+                            <a href="/zakat_calculator" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/charitableImg2.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
                             <h1><span>ZAKATt</span></h1>
-                            <h2><a href="http://www.alsafakw.org/#" tabIndex={-1}>Calculate Your Zakat</a></h2>
+                            <h2><a href="/#" tabIndex={-1}>Calculate Your Zakat</a></h2>
                             <div className="TextCon">
                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed feugiat orci. Fusce sit amet lorem pretium, eleifend orci id, pretium nisi....</p>
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li className="Full"><a target="_blank" className="btn btn-default" href="http://www.alsafakw.org/zakat_calculator" tabIndex={-1}>Calculate Your Zakat</a></li>
+                                <li className="Full"><a target="_blank" className="btn btn-default" href="/zakat_calculator" tabIndex={-1}>Calculate Your Zakat</a></li>
                               </ul>
                             </div>
-                            {/* <img class="borderImg" src="http://www.alsafakw.org/images/border.jpg" /> */}
+                            {/* <img class="borderImg" src="/images/border.jpg" /> */}
                           </div>
                         </div>
                       </li>
@@ -748,13 +748,13 @@ const Zakat1 = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/contactImg11.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MQ" tabIndex={-1}><span>Zakat Foundation</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/MQ" tabIndex={-1}><span>Zakat Foundation</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lo....							    		</p>
@@ -762,7 +762,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MQ" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/MQ" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -787,13 +787,13 @@ const Zakat1 = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/banner03.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/Mg" tabIndex={-1}><span>wewewe</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/Mg" tabIndex={-1}><span>wewewe</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lo....							    		</p>
@@ -801,7 +801,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/Mg" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/Mg" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -826,13 +826,13 @@ const Zakat1 = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/BannerImg2.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/Mw" tabIndex={-1}><span>zakat demo4</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/Mw" tabIndex={-1}><span>zakat demo4</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem....							    		
@@ -840,7 +840,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/Mw" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/Mw" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -864,13 +864,13 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/banner.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/NA" tabIndex={-1}><span>alm demo4</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/NA" tabIndex={-1}><span>alm demo4</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lo....							    		</p>
@@ -878,7 +878,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/NA" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/NA" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -903,13 +903,13 @@ const Zakat1 = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/projectImg511.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/NQ" tabIndex={-1}><span>atonement2</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/NQ" tabIndex={-1}><span>atonement2</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lo....							    		</p>
@@ -917,7 +917,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/NQ" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/NQ" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -942,13 +942,13 @@ const Zakat1 = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/projectImg1.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/Ng" tabIndex={-1}><span>realities4</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/Ng" tabIndex={-1}><span>realities4</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry.							    		
@@ -956,7 +956,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/Ng" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/Ng" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -981,13 +981,13 @@ const Zakat1 = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/projectImg2.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/Nw" tabIndex={-1}><span>sacrifies demo</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/Nw" tabIndex={-1}><span>sacrifies demo</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry.							    		
@@ -995,7 +995,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/Nw" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/Nw" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -1020,13 +1020,13 @@ const Zakat1 = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/projectImg4.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/OA" tabIndex={-1}><span>zakat testing project</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/OA" tabIndex={-1}><span>zakat testing project</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem....							    		
@@ -1034,7 +1034,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/OA" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/OA" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -1058,13 +1058,13 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/projectImg52.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/OQ" tabIndex={-1}><span>My Zakat</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/OQ" tabIndex={-1}><span>My Zakat</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 Zakat Foundation of America embodies the inclusive beauty of Islam through progr....							    		
@@ -1072,7 +1072,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/OQ" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/OQ" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -1096,13 +1096,13 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/food_basket1_(1).jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTA" tabIndex={-1}><span>sdfsdfgseee ewe er</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/MTA" tabIndex={-1}><span>sdfsdfgseee ewe er</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p><span id>name</span>
@@ -1110,7 +1110,7 @@ const Zakat1 = () => {
                               </div>
                               <div className="BtnSec">
                                 <ul>
-                                  <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTA" tabIndex={-1}>DONATE NOW</a></li>
+                                  <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/MTA" tabIndex={-1}>DONATE NOW</a></li>
                                 </ul>
                               </div>
                               <div className="progress blue">
@@ -1135,13 +1135,13 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/contact_header.jpg" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTE" tabIndex={-1}><span>scvsdvsdfsdvsvdsdsvd</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/MTE" tabIndex={-1}><span>scvsdvsdfsdvsvdsdsvd</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p>&nbsp;scvsdvsdfsdvsvdsdsvd</p>
@@ -1151,7 +1151,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTE" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/MTE" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">
@@ -1175,13 +1175,13 @@ const Zakat1 = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}>
+                            <a href="/charity_category/charity_category/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src="./alsafakw.org _ Home Page_files/ballot_box_1_1_3.png" alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><a href="http://www.alsafakw.org/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTI" tabIndex={-1}><span>Office Building</span></a></h1>
+                            <h1><a href="/charity_category/charity_category/MQ" tabIndex={-1}><span>Zakat Project</span></a> <i className="fa fa-angle-double-right" /><a href="/project_checkout/zakat_category_detail/MTI" tabIndex={-1}><span>Office Building</span></a></h1>
                             <div className="form-group2">
                               <div className="TextHeight">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed feugiat o....							    		</p>
@@ -1189,7 +1189,7 @@ const Zakat1 = () => {
                             </div>
                             <div className="BtnSec">
                               <ul>
-                                <li><a className="btn btn-default" href="http://www.alsafakw.org/project_checkout/zakat_category_detail/MTI" tabIndex={-1}>DONATE NOW</a></li>
+                                <li><a className="btn btn-default" href="/project_checkout/zakat_category_detail/MTI" tabIndex={-1}>DONATE NOW</a></li>
                               </ul>
                             </div>
                             <div className="progress blue">

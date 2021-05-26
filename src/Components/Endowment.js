@@ -38,15 +38,15 @@ const Endowment = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/NQ" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/NQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/NQ" tabIndex={-1}>Provision of water</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/NQ" tabIndex={-1}>Provision of water</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/NQ" tabIndex={-1}>Provision of water</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/NQ" tabIndex={-1}>Provision of water</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
@@ -108,15 +108,15 @@ const Endowment = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Mg" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/Mg" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Mg" tabIndex={-1}>AlSafa endowment XYZ</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/Mg" tabIndex={-1}>AlSafa endowment XYZ</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Mg" tabIndex={-1}>AlSafa endowment XYZ</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/Mg" tabIndex={-1}>AlSafa endowment XYZ</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
@@ -178,15 +178,15 @@ const Endowment = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MQ" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MQ" tabIndex={-1}>Endo Project</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/MQ" tabIndex={-1}>Endo Project</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MQ" tabIndex={-1}>Endo Project</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/MQ" tabIndex={-1}>Endo Project</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
@@ -247,15 +247,15 @@ const Endowment = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTU" tabIndex={0}>
+                            <a href="project_checkout/endowment_category_detail/MTU" tabIndex={0}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={0}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTU" tabIndex={0}>School Building</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={0}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/MTU" tabIndex={0}>School Building</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTU" tabIndex={0}>School Building</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/MTU" tabIndex={0}>School Building</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed feugiat orci. Fusce sit amet...</p>
@@ -316,15 +316,15 @@ const Endowment = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTM" tabIndex={0}>
+                            <a href="project_checkout/endowment_category_detail/MTM" tabIndex={0}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={0}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTM" tabIndex={0}>A home for Orphans</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={0}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/MTM" tabIndex={0}>A home for Orphans</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTM" tabIndex={0}>A home for Orphans</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/MTM" tabIndex={0}>A home for Orphans</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Many are cared for by extended family members. But some children have no one, while others were...</p>
@@ -385,15 +385,15 @@ const Endowment = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTI" tabIndex={0}>
+                            <a href="project_checkout/endowment_category_detail/MTI" tabIndex={0}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={0}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTI" tabIndex={0}>Social Responsibility</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={0}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/MTI" tabIndex={0}>Social Responsibility</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTI" tabIndex={0}>Social Responsibility</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/MTI" tabIndex={0}>Social Responsibility</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Al safa plays a pivotal role in activating the principles of corporate social responsibility...</p>
@@ -453,15 +453,15 @@ const Endowment = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/OA" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/OA" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/OA" tabIndex={-1}>Charitable endowment</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/OA" tabIndex={-1}>Charitable endowment</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/OA" tabIndex={-1}>Charitable endowment</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/OA" tabIndex={-1}>Charitable endowment</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Suitable because of differences in word lengths between languages. However, for everyday life...</p>
@@ -522,15 +522,15 @@ const Endowment = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Nw" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/Nw" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Nw" tabIndex={-1}>Seven Benefits</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/Nw" tabIndex={-1}>Seven Benefits</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Nw" tabIndex={-1}>Seven Benefits</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/Nw" tabIndex={-1}>Seven Benefits</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
@@ -590,15 +590,15 @@ const Endowment = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Ng" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/Ng" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Ng" tabIndex={-1}>Righteousness to parents</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/Ng" tabIndex={-1}>Righteousness to parents</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Ng" tabIndex={-1}>Righteousness to parents</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/Ng" tabIndex={-1}>Righteousness to parents</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
@@ -659,15 +659,15 @@ const Endowment = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/NQ" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/NQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/NQ" tabIndex={-1}>Provision of water</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/NQ" tabIndex={-1}>Provision of water</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/NQ" tabIndex={-1}>Provision of water</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/NQ" tabIndex={-1}>Provision of water</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
@@ -729,15 +729,15 @@ const Endowment = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Mg" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/Mg" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Mg" tabIndex={-1}>AlSafa endowment XYZ</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/Mg" tabIndex={-1}>AlSafa endowment XYZ</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Mg" tabIndex={-1}>AlSafa endowment XYZ</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/Mg" tabIndex={-1}>AlSafa endowment XYZ</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
@@ -799,15 +799,15 @@ const Endowment = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MQ" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MQ" tabIndex={-1}>Endo Project</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/MQ" tabIndex={-1}>Endo Project</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MQ" tabIndex={-1}>Endo Project</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/MQ" tabIndex={-1}>Endo Project</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
@@ -868,15 +868,15 @@ const Endowment = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTU" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/MTU" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTU" tabIndex={-1}>School Building</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/MTU" tabIndex={-1}>School Building</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTU" tabIndex={-1}>School Building</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/MTU" tabIndex={-1}>School Building</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed feugiat orci. Fusce sit amet...</p>
@@ -937,15 +937,15 @@ const Endowment = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTM" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/MTM" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTM" tabIndex={-1}>A home for Orphans</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/MTM" tabIndex={-1}>A home for Orphans</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTM" tabIndex={-1}>A home for Orphans</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/MTM" tabIndex={-1}>A home for Orphans</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Many are cared for by extended family members. But some children have no one, while others were...</p>
@@ -1006,15 +1006,15 @@ const Endowment = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTI" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/MTI" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTI" tabIndex={-1}>Social Responsibility</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/MTI" tabIndex={-1}>Social Responsibility</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MTI" tabIndex={-1}>Social Responsibility</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/MTI" tabIndex={-1}>Social Responsibility</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Al safa plays a pivotal role in activating the principles of corporate social responsibility...</p>
@@ -1074,15 +1074,15 @@ const Endowment = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/OA" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/OA" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/OA" tabIndex={-1}>Charitable endowment</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/OA" tabIndex={-1}>Charitable endowment</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/OA" tabIndex={-1}>Charitable endowment</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/OA" tabIndex={-1}>Charitable endowment</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Suitable because of differences in word lengths between languages. However, for everyday life...</p>
@@ -1143,15 +1143,15 @@ const Endowment = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Nw" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/Nw" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Nw" tabIndex={-1}>Seven Benefits</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/Nw" tabIndex={-1}>Seven Benefits</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Nw" tabIndex={-1}>Seven Benefits</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/Nw" tabIndex={-1}>Seven Benefits</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
@@ -1211,15 +1211,15 @@ const Endowment = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Ng" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/Ng" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Ng" tabIndex={-1}>Righteousness to parents</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/Ng" tabIndex={-1}>Righteousness to parents</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Ng" tabIndex={-1}>Righteousness to parents</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/Ng" tabIndex={-1}>Righteousness to parents</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
@@ -1280,15 +1280,15 @@ const Endowment = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/NQ" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/NQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/NQ" tabIndex={-1}>Provision of water</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/NQ" tabIndex={-1}>Provision of water</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/NQ" tabIndex={-1}>Provision of water</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/NQ" tabIndex={-1}>Provision of water</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
@@ -1350,15 +1350,15 @@ const Endowment = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Mg" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/Mg" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Mg" tabIndex={-1}>AlSafa endowment XYZ</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/Mg" tabIndex={-1}>AlSafa endowment XYZ</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/Mg" tabIndex={-1}>AlSafa endowment XYZ</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/Mg" tabIndex={-1}>AlSafa endowment XYZ</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
@@ -1420,15 +1420,15 @@ const Endowment = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MQ" tabIndex={-1}>
+                            <a href="project_checkout/endowment_category_detail/MQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={EndowmentImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MQ" tabIndex={-1}>Endo Project</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mw" tabIndex={-1}>Endowment</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/endowment_category_detail/MQ" tabIndex={-1}>Endo Project</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/endowment_category_detail/MQ" tabIndex={-1}>Endo Project</a></h2>
+                            <h2><a href="project_checkout/endowment_category_detail/MQ" tabIndex={-1}>Endo Project</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>

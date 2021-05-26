@@ -36,9 +36,9 @@ const Charitable = () => {
                         <div className="NewBlockSection">
                           <div className="SponserCatBlock">
                             <div style={{display: 'none'}} className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <form method="post" action="http://www.alsafakw.org/Sponsorship_detail">
+                            <form method="post" action="Sponsorship_detail">
                               <div className="SponserHeader First">
-                                <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={-1}>
+                                <a href="sponsorship_category/sponsorship_project/NDE" tabIndex={-1}>
                                   <ul>
                                     <li>
                                       <h3>Sponsorship | Orphans</h3>
@@ -51,17 +51,17 @@ const Charitable = () => {
                                 <div className="Sponsers_Block">
                                   <div className="Sponsers_Left">
                                     <ul>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><strong>Name </strong> <span>: Jamal</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><strong>Age </strong> <span>: 
+                                      <li><a href="sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><strong>Name </strong> <span>: Jamal</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><strong>Age </strong> <span>: 
                                             1 Years Old</span> </a>
                                       </li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><strong>Gender </strong> <span>: Male</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><strong>Type </strong> <span>: Orphans</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><strong>Gender </strong> <span>: Male</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><strong>Type </strong> <span>: Orphans</span> </a></li>
                                       <li><strong>Urgent </strong> <span>: No</span> </li>
                                     </ul>
                                   </div>
                                   <div className="Sponsers_Right">
-                                    <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={-1}>
+                                    <a href="sponsorship_category/sponsorship_project/NDE" tabIndex={-1}>
                                       <img src={sp} alt /></a>
                                   </div>
                                 </div>
@@ -91,7 +91,7 @@ const Charitable = () => {
                                 <ul>
                                   <li><input type="submit" className="btn btn-default" name="add_to_cart" defaultValue="Add To Cart" tabIndex={-1} /></li>
                                   <li>
-                                    <a className="btn btn-default" href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
+                                    <a className="btn btn-default" href="sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
                                     {/* <input type="submit" class="btn btn-default btn-default2" name="add_to_cart" value="Sponsor Me" /> */}
                                   </li>
                                 </ul>
@@ -114,9 +114,9 @@ const Charitable = () => {
                         <div className="NewBlockSection">
                           <div className="SponserCatBlock">
                             <div style={{display: 'none'}} className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <form method="post" action="http://www.alsafakw.org/Sponsorship_detail">
+                            <form method="post" action="Sponsorship_detail">
                               <div className="SponserHeader First">
-                                <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}>
+                                <a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}>
                                   <ul>
                                     <li>
                                       <h3>Sponsorship | Widows</h3>
@@ -129,17 +129,17 @@ const Charitable = () => {
                                 <div className="Sponsers_Block">
                                   <div className="Sponsers_Left">
                                     <ul>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Name </strong> <span>: Adeel</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Age </strong> <span>: 
+                                      <li><a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Name </strong> <span>: Adeel</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Age </strong> <span>: 
                                             0 Years Old</span> </a>
                                       </li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Gender </strong> <span>: </span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Type </strong> <span>: Widows</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Gender </strong> <span>: </span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Type </strong> <span>: Widows</span> </a></li>
                                       <li><strong>Urgent </strong> <span>: No</span> </li>
                                     </ul>
                                   </div>
                                   <div className="Sponsers_Right">
-                                    <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}>
+                                    <a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}>
                                       <img src={sp} alt /></a>
                                   </div>
                                 </div>
@@ -169,7 +169,7 @@ const Charitable = () => {
                                 <ul>
                                   <li><input type="submit" className="btn btn-default" name="add_to_cart" defaultValue="Add To Cart" tabIndex={-1} /></li>
                                   <li>
-                                    <a className="btn btn-default" href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
+                                    <a className="btn btn-default" href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
                                     {/* <input type="submit" class="btn btn-default btn-default2" name="add_to_cart" value="Sponsor Me" /> */}
                                   </li>
                                 </ul>
@@ -192,9 +192,9 @@ const Charitable = () => {
                         <div className="NewBlockSection">
                           <div className="SponserCatBlock">
                             <div style={{display: 'none'}} className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <form method="post" action="http://www.alsafakw.org/Sponsorship_detail">
+                            <form method="post" action="Sponsorship_detail">
                               <div className="SponserHeader First">
-                                <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}>
+                                <a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}>
                                   <ul>
                                     <li>
                                       <h3>Sponsorship | Widows</h3>
@@ -207,17 +207,17 @@ const Charitable = () => {
                                 <div className="Sponsers_Block">
                                   <div className="Sponsers_Left">
                                     <ul>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Name </strong> <span>: Abdullah</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Age </strong> <span>: 
+                                      <li><a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Name </strong> <span>: Abdullah</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Age </strong> <span>: 
                                             8 Years Old</span> </a>
                                       </li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Gender </strong> <span>: Male</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Type </strong> <span>: Widows</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Gender </strong> <span>: Male</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Type </strong> <span>: Widows</span> </a></li>
                                       <li><strong>Urgent </strong> <span>: No</span> </li>
                                     </ul>
                                   </div>
                                   <div className="Sponsers_Right">
-                                    <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}>
+                                    <a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}>
                                       <img src={sp} alt /></a>
                                   </div>
                                 </div>
@@ -247,7 +247,7 @@ const Charitable = () => {
                                 <ul>
                                   <li><input type="submit" className="btn btn-default" name="add_to_cart" defaultValue="Add To Cart" tabIndex={-1} /></li>
                                   <li>
-                                    <a className="btn btn-default" href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
+                                    <a className="btn btn-default" href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
                                     {/* <input type="submit" class="btn btn-default btn-default2" name="add_to_cart" value="Sponsor Me" /> */}
                                   </li>
                                 </ul>
@@ -270,9 +270,9 @@ const Charitable = () => {
                         <div className="NewBlockSection">
                           <div className="SponserCatBlock">
                             <div style={{display: 'none'}} className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <form method="post" action="http://www.alsafakw.org/Sponsorship_detail">
+                            <form method="post" action="Sponsorship_detail">
                               <div className="SponserHeader First">
-                                <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTU" tabIndex={0}>
+                                <a href="sponsorship_category/sponsorship_project/NTU" tabIndex={0}>
                                   <ul>
                                     <li>
                                       <h3>Sponsorship | Orphans</h3>
@@ -285,17 +285,17 @@ const Charitable = () => {
                                 <div className="Sponsers_Block">
                                   <div className="Sponsers_Left">
                                     <ul>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTU" tabIndex={0}><strong>Name </strong> <span>: Pediatric Cancer Patient </span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTU" tabIndex={0}><strong>Age </strong> <span>: 
+                                      <li><a href="sponsorship_category/sponsorship_project/NTU" tabIndex={0}><strong>Name </strong> <span>: Pediatric Cancer Patient </span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NTU" tabIndex={0}><strong>Age </strong> <span>: 
                                             28 Years Old</span> </a>
                                       </li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTU" tabIndex={0}><strong>Gender </strong> <span>: Male</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTU" tabIndex={0}><strong>Type </strong> <span>: Orphans</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NTU" tabIndex={0}><strong>Gender </strong> <span>: Male</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NTU" tabIndex={0}><strong>Type </strong> <span>: Orphans</span> </a></li>
                                       <li><strong>Urgent </strong> <span>: No</span> </li>
                                     </ul>
                                   </div>
                                   <div className="Sponsers_Right">
-                                    <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTU" tabIndex={0}>
+                                    <a href="sponsorship_category/sponsorship_project/NTU" tabIndex={0}>
                                       <img src={sp} alt /></a>
                                   </div>
                                 </div>
@@ -325,7 +325,7 @@ const Charitable = () => {
                                 <ul>
                                   <li><input type="submit" className="btn btn-default" name="add_to_cart" defaultValue="Add To Cart" tabIndex={0} /></li>
                                   <li>
-                                    <a className="btn btn-default" href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTU" tabIndex={0}><span className="sponsor_metext">Sponsor Me</span></a>
+                                    <a className="btn btn-default" href="sponsorship_category/sponsorship_project/NTU" tabIndex={0}><span className="sponsor_metext">Sponsor Me</span></a>
                                     {/* <input type="submit" class="btn btn-default btn-default2" name="add_to_cart" value="Sponsor Me" /> */}
                                   </li>
                                 </ul>
@@ -348,9 +348,9 @@ const Charitable = () => {
                         <div className="NewBlockSection">
                           <div className="SponserCatBlock">
                             <div style={{display: 'block'}} className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <form method="post" action="http://www.alsafakw.org/Sponsorship_detail">
+                            <form method="post" action="Sponsorship_detail">
                               <div className="SponserHeader First">
-                                <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTQ" tabIndex={0}>
+                                <a href="sponsorship_category/sponsorship_project/NTQ" tabIndex={0}>
                                   <ul>
                                     <li>
                                       <h3 style={{padding: '0 0 0 56px'}}>Sponsorship | Cancer Patients</h3>
@@ -363,17 +363,17 @@ const Charitable = () => {
                                 <div className="Sponsers_Block">
                                   <div className="Sponsers_Left">
                                     <ul>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTQ" tabIndex={0}><strong>Name </strong> <span>: Patients Fund Society</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTQ" tabIndex={0}><strong>Age </strong> <span>: 
+                                      <li><a href="sponsorship_category/sponsorship_project/NTQ" tabIndex={0}><strong>Name </strong> <span>: Patients Fund Society</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NTQ" tabIndex={0}><strong>Age </strong> <span>: 
                                             15 Years Old</span> </a>
                                       </li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTQ" tabIndex={0}><strong>Gender </strong> <span>: Female</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTQ" tabIndex={0}><strong>Type </strong> <span>: Cancer Patients</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NTQ" tabIndex={0}><strong>Gender </strong> <span>: Female</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NTQ" tabIndex={0}><strong>Type </strong> <span>: Cancer Patients</span> </a></li>
                                       <li><strong>Urgent </strong> <span>: Yes</span> </li>
                                     </ul>
                                   </div>
                                   <div className="Sponsers_Right">
-                                    <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTQ" tabIndex={0}>
+                                    <a href="sponsorship_category/sponsorship_project/NTQ" tabIndex={0}>
                                       <img src={sp}/></a>	
                                   </div>
                                 </div>
@@ -403,7 +403,7 @@ const Charitable = () => {
                                 <ul>
                                   <li><input type="submit" className="btn btn-default" name="add_to_cart" defaultValue="Add To Cart" tabIndex={0} /></li>
                                   <li>
-                                    <a className="btn btn-default" href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTQ" tabIndex={0}><span className="sponsor_metext">Sponsor Me</span></a>
+                                    <a className="btn btn-default" href="sponsorship_category/sponsorship_project/NTQ" tabIndex={0}><span className="sponsor_metext">Sponsor Me</span></a>
                                     {/* <input type="submit" class="btn btn-default btn-default2" name="add_to_cart" value="Sponsor Me" /> */}
                                   </li>
                                 </ul>
@@ -426,9 +426,9 @@ const Charitable = () => {
                         <div className="NewBlockSection">
                           <div className="SponserCatBlock">
                             <div style={{display: 'none'}} className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <form method="post" action="http://www.alsafakw.org/Sponsorship_detail">
+                            <form method="post" action="Sponsorship_detail">
                               <div className="SponserHeader First">
-                                <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={0}>
+                                <a href="sponsorship_category/sponsorship_project/NDE" tabIndex={0}>
                                   <ul>
                                     <li>
                                       <h3>Sponsorship | Orphans</h3>
@@ -441,17 +441,17 @@ const Charitable = () => {
                                 <div className="Sponsers_Block">
                                   <div className="Sponsers_Left">
                                     <ul>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={0}><strong>Name </strong> <span>: Jamal</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={0}><strong>Age </strong> <span>: 
+                                      <li><a href="sponsorship_category/sponsorship_project/NDE" tabIndex={0}><strong>Name </strong> <span>: Jamal</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDE" tabIndex={0}><strong>Age </strong> <span>: 
                                             1 Years Old</span> </a>
                                       </li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={0}><strong>Gender </strong> <span>: Male</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={0}><strong>Type </strong> <span>: Orphans</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDE" tabIndex={0}><strong>Gender </strong> <span>: Male</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDE" tabIndex={0}><strong>Type </strong> <span>: Orphans</span> </a></li>
                                       <li><strong>Urgent </strong> <span>: No</span> </li>
                                     </ul>
                                   </div>
                                   <div className="Sponsers_Right">
-                                    <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={0}>
+                                    <a href="sponsorship_category/sponsorship_project/NDE" tabIndex={0}>
                                       <img src={sp} alt /></a>
                                   </div>
                                 </div>
@@ -481,7 +481,7 @@ const Charitable = () => {
                                 <ul>
                                   <li><input type="submit" className="btn btn-default" name="add_to_cart" defaultValue="Add To Cart" tabIndex={0} /></li>
                                   <li>
-                                    <a className="btn btn-default" href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={0}><span className="sponsor_metext">Sponsor Me</span></a>
+                                    <a className="btn btn-default" href="sponsorship_category/sponsorship_project/NDE" tabIndex={0}><span className="sponsor_metext">Sponsor Me</span></a>
                                     {/* <input type="submit" class="btn btn-default btn-default2" name="add_to_cart" value="Sponsor Me" /> */}
                                   </li>
                                 </ul>
@@ -504,9 +504,9 @@ const Charitable = () => {
                         <div className="NewBlockSection">
                           <div className="SponserCatBlock">
                             <div style={{display: 'none'}} className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <form method="post" action="http://www.alsafakw.org/Sponsorship_detail">
+                            <form method="post" action="Sponsorship_detail">
                               <div className="SponserHeader First">
-                                <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}>
+                                <a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}>
                                   <ul>
                                     <li>
                                       <h3>Sponsorship | Widows</h3>
@@ -519,17 +519,17 @@ const Charitable = () => {
                                 <div className="Sponsers_Block">
                                   <div className="Sponsers_Left">
                                     <ul>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Name </strong> <span>: Adeel</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Age </strong> <span>: 
+                                      <li><a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Name </strong> <span>: Adeel</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Age </strong> <span>: 
                                             0 Years Old</span> </a>
                                       </li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Gender </strong> <span>: </span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Type </strong> <span>: Widows</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Gender </strong> <span>: </span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Type </strong> <span>: Widows</span> </a></li>
                                       <li><strong>Urgent </strong> <span>: No</span> </li>
                                     </ul>
                                   </div>
                                   <div className="Sponsers_Right">
-                                    <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}>
+                                    <a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}>
                                       <img src={sp} alt /></a>
                                   </div>
                                 </div>
@@ -559,7 +559,7 @@ const Charitable = () => {
                                 <ul>
                                   <li><input type="submit" className="btn btn-default" name="add_to_cart" defaultValue="Add To Cart" tabIndex={-1} /></li>
                                   <li>
-                                    <a className="btn btn-default" href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
+                                    <a className="btn btn-default" href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
                                     {/* <input type="submit" class="btn btn-default btn-default2" name="add_to_cart" value="Sponsor Me" /> */}
                                   </li>
                                 </ul>
@@ -582,9 +582,9 @@ const Charitable = () => {
                         <div className="NewBlockSection">
                           <div className="SponserCatBlock">
                             <div style={{display: 'none'}} className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <form method="post" action="http://www.alsafakw.org/Sponsorship_detail">
+                            <form method="post" action="Sponsorship_detail">
                               <div className="SponserHeader First">
-                                <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}>
+                                <a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}>
                                   <ul>
                                     <li>
                                       <h3>Sponsorship | Widows</h3>
@@ -597,17 +597,17 @@ const Charitable = () => {
                                 <div className="Sponsers_Block">
                                   <div className="Sponsers_Left">
                                     <ul>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Name </strong> <span>: Abdullah</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Age </strong> <span>: 
+                                      <li><a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Name </strong> <span>: Abdullah</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Age </strong> <span>: 
                                             8 Years Old</span> </a>
                                       </li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Gender </strong> <span>: Male</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Type </strong> <span>: Widows</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Gender </strong> <span>: Male</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Type </strong> <span>: Widows</span> </a></li>
                                       <li><strong>Urgent </strong> <span>: No</span> </li>
                                     </ul>
                                   </div>
                                   <div className="Sponsers_Right">
-                                    <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}>
+                                    <a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}>
                                       <img src={sp} alt /></a>
                                   </div>
                                 </div>
@@ -637,7 +637,7 @@ const Charitable = () => {
                                 <ul>
                                   <li><input type="submit" className="btn btn-default" name="add_to_cart" defaultValue="Add To Cart" tabIndex={-1} /></li>
                                   <li>
-                                    <a className="btn btn-default" href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
+                                    <a className="btn btn-default" href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
                                     {/* <input type="submit" class="btn btn-default btn-default2" name="add_to_cart" value="Sponsor Me" /> */}
                                   </li>
                                 </ul>
@@ -660,9 +660,9 @@ const Charitable = () => {
                         <div className="NewBlockSection">
                           <div className="SponserCatBlock">
                             <div style={{display: 'none'}} className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <form method="post" action="http://www.alsafakw.org/Sponsorship_detail">
+                            <form method="post" action="Sponsorship_detail">
                               <div className="SponserHeader First">
-                                <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTU" tabIndex={-1}>
+                                <a href="sponsorship_category/sponsorship_project/NTU" tabIndex={-1}>
                                   <ul>
                                     <li>
                                       <h3>Sponsorship | Orphans</h3>
@@ -675,17 +675,17 @@ const Charitable = () => {
                                 <div className="Sponsers_Block">
                                   <div className="Sponsers_Left">
                                     <ul>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTU" tabIndex={-1}><strong>Name </strong> <span>: Pediatric Cancer Patient </span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTU" tabIndex={-1}><strong>Age </strong> <span>: 
+                                      <li><a href="sponsorship_category/sponsorship_project/NTU" tabIndex={-1}><strong>Name </strong> <span>: Pediatric Cancer Patient </span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NTU" tabIndex={-1}><strong>Age </strong> <span>: 
                                             28 Years Old</span> </a>
                                       </li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTU" tabIndex={-1}><strong>Gender </strong> <span>: Male</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTU" tabIndex={-1}><strong>Type </strong> <span>: Orphans</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NTU" tabIndex={-1}><strong>Gender </strong> <span>: Male</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NTU" tabIndex={-1}><strong>Type </strong> <span>: Orphans</span> </a></li>
                                       <li><strong>Urgent </strong> <span>: No</span> </li>
                                     </ul>
                                   </div>
                                   <div className="Sponsers_Right">
-                                    <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTU" tabIndex={-1}>
+                                    <a href="sponsorship_category/sponsorship_project/NTU" tabIndex={-1}>
                                       <img src={sp} alt /></a>
                                   </div>
                                 </div>
@@ -715,7 +715,7 @@ const Charitable = () => {
                                 <ul>
                                   <li><input type="submit" className="btn btn-default" name="add_to_cart" defaultValue="Add To Cart" tabIndex={-1} /></li>
                                   <li>
-                                    <a className="btn btn-default" href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTU" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
+                                    <a className="btn btn-default" href="sponsorship_category/sponsorship_project/NTU" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
                                     {/* <input type="submit" class="btn btn-default btn-default2" name="add_to_cart" value="Sponsor Me" /> */}
                                   </li>
                                 </ul>
@@ -738,9 +738,9 @@ const Charitable = () => {
                         <div className="NewBlockSection">
                           <div className="SponserCatBlock">
                             <div style={{display: 'block'}} className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <form method="post" action="http://www.alsafakw.org/Sponsorship_detail">
+                            <form method="post" action="Sponsorship_detail">
                               <div className="SponserHeader First">
-                                <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTQ" tabIndex={-1}>
+                                <a href="sponsorship_category/sponsorship_project/NTQ" tabIndex={-1}>
                                   <ul>
                                     <li>
                                       <h3 style={{padding: '0 0 0 56px'}}>Sponsorship | Cancer Patients</h3>
@@ -753,17 +753,17 @@ const Charitable = () => {
                                 <div className="Sponsers_Block">
                                   <div className="Sponsers_Left">
                                     <ul>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTQ" tabIndex={-1}><strong>Name </strong> <span>: Patients Fund Society</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTQ" tabIndex={-1}><strong>Age </strong> <span>: 
+                                      <li><a href="sponsorship_category/sponsorship_project/NTQ" tabIndex={-1}><strong>Name </strong> <span>: Patients Fund Society</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NTQ" tabIndex={-1}><strong>Age </strong> <span>: 
                                             15 Years Old</span> </a>
                                       </li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTQ" tabIndex={-1}><strong>Gender </strong> <span>: Female</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTQ" tabIndex={-1}><strong>Type </strong> <span>: Cancer Patients</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NTQ" tabIndex={-1}><strong>Gender </strong> <span>: Female</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NTQ" tabIndex={-1}><strong>Type </strong> <span>: Cancer Patients</span> </a></li>
                                       <li><strong>Urgent </strong> <span>: Yes</span> </li>
                                     </ul>
                                   </div>
                                   <div className="Sponsers_Right">
-                                    <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTQ" tabIndex={-1}>
+                                    <a href="sponsorship_category/sponsorship_project/NTQ" tabIndex={-1}>
                                       <img src={sp}/></a>	
                                   </div>
                                 </div>
@@ -793,7 +793,7 @@ const Charitable = () => {
                                 <ul>
                                   <li><input type="submit" className="btn btn-default" name="add_to_cart" defaultValue="Add To Cart" tabIndex={-1} /></li>
                                   <li>
-                                    <a className="btn btn-default" href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NTQ" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
+                                    <a className="btn btn-default" href="sponsorship_category/sponsorship_project/NTQ" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
                                     {/* <input type="submit" class="btn btn-default btn-default2" name="add_to_cart" value="Sponsor Me" /> */}
                                   </li>
                                 </ul>
@@ -816,9 +816,9 @@ const Charitable = () => {
                         <div className="NewBlockSection">
                           <div className="SponserCatBlock">
                             <div style={{display: 'none'}} className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <form method="post" action="http://www.alsafakw.org/Sponsorship_detail">
+                            <form method="post" action="Sponsorship_detail">
                               <div className="SponserHeader First">
-                                <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={-1}>
+                                <a href="sponsorship_category/sponsorship_project/NDE" tabIndex={-1}>
                                   <ul>
                                     <li>
                                       <h3>Sponsorship | Orphans</h3>
@@ -831,17 +831,17 @@ const Charitable = () => {
                                 <div className="Sponsers_Block">
                                   <div className="Sponsers_Left">
                                     <ul>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><strong>Name </strong> <span>: Jamal</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><strong>Age </strong> <span>: 
+                                      <li><a href="sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><strong>Name </strong> <span>: Jamal</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><strong>Age </strong> <span>: 
                                             1 Years Old</span> </a>
                                       </li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><strong>Gender </strong> <span>: Male</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><strong>Type </strong> <span>: Orphans</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><strong>Gender </strong> <span>: Male</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><strong>Type </strong> <span>: Orphans</span> </a></li>
                                       <li><strong>Urgent </strong> <span>: No</span> </li>
                                     </ul>
                                   </div>
                                   <div className="Sponsers_Right">
-                                    <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={-1}>
+                                    <a href="sponsorship_category/sponsorship_project/NDE" tabIndex={-1}>
                                       <img src={sp} alt /></a>
                                   </div>
                                 </div>
@@ -871,7 +871,7 @@ const Charitable = () => {
                                 <ul>
                                   <li><input type="submit" className="btn btn-default" name="add_to_cart" defaultValue="Add To Cart" tabIndex={-1} /></li>
                                   <li>
-                                    <a className="btn btn-default" href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
+                                    <a className="btn btn-default" href="sponsorship_category/sponsorship_project/NDE" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
                                     {/* <input type="submit" class="btn btn-default btn-default2" name="add_to_cart" value="Sponsor Me" /> */}
                                   </li>
                                 </ul>
@@ -894,9 +894,9 @@ const Charitable = () => {
                         <div className="NewBlockSection">
                           <div className="SponserCatBlock">
                             <div style={{display: 'none'}} className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <form method="post" action="http://www.alsafakw.org/Sponsorship_detail">
+                            <form method="post" action="Sponsorship_detail">
                               <div className="SponserHeader First">
-                                <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}>
+                                <a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}>
                                   <ul>
                                     <li>
                                       <h3>Sponsorship | Widows</h3>
@@ -909,17 +909,17 @@ const Charitable = () => {
                                 <div className="Sponsers_Block">
                                   <div className="Sponsers_Left">
                                     <ul>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Name </strong> <span>: Adeel</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Age </strong> <span>: 
+                                      <li><a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Name </strong> <span>: Adeel</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Age </strong> <span>: 
                                             0 Years Old</span> </a>
                                       </li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Gender </strong> <span>: </span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Type </strong> <span>: Widows</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Gender </strong> <span>: </span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><strong>Type </strong> <span>: Widows</span> </a></li>
                                       <li><strong>Urgent </strong> <span>: No</span> </li>
                                     </ul>
                                   </div>
                                   <div className="Sponsers_Right">
-                                    <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}>
+                                    <a href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}>
                                       <img src={sp} alt /></a>
                                   </div>
                                 </div>
@@ -949,7 +949,7 @@ const Charitable = () => {
                                 <ul>
                                   <li><input type="submit" className="btn btn-default" name="add_to_cart" defaultValue="Add To Cart" tabIndex={-1} /></li>
                                   <li>
-                                    <a className="btn btn-default" href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
+                                    <a className="btn btn-default" href="sponsorship_category/sponsorship_project/NDA" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
                                     {/* <input type="submit" class="btn btn-default btn-default2" name="add_to_cart" value="Sponsor Me" /> */}
                                   </li>
                                 </ul>
@@ -972,9 +972,9 @@ const Charitable = () => {
                         <div className="NewBlockSection">
                           <div className="SponserCatBlock">
                             <div style={{display: 'none'}} className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <form method="post" action="http://www.alsafakw.org/Sponsorship_detail">
+                            <form method="post" action="Sponsorship_detail">
                               <div className="SponserHeader First">
-                                <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}>
+                                <a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}>
                                   <ul>
                                     <li>
                                       <h3>Sponsorship | Widows</h3>
@@ -987,17 +987,17 @@ const Charitable = () => {
                                 <div className="Sponsers_Block">
                                   <div className="Sponsers_Left">
                                     <ul>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Name </strong> <span>: Abdullah</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Age </strong> <span>: 
+                                      <li><a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Name </strong> <span>: Abdullah</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Age </strong> <span>: 
                                             8 Years Old</span> </a>
                                       </li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Gender </strong> <span>: Male</span> </a></li>
-                                      <li><a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Type </strong> <span>: Widows</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Gender </strong> <span>: Male</span> </a></li>
+                                      <li><a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><strong>Type </strong> <span>: Widows</span> </a></li>
                                       <li><strong>Urgent </strong> <span>: No</span> </li>
                                     </ul>
                                   </div>
                                   <div className="Sponsers_Right">
-                                    <a href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}>
+                                    <a href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}>
                                       <img src={sp} alt /></a>
                                   </div>
                                 </div>
@@ -1027,7 +1027,7 @@ const Charitable = () => {
                                 <ul>
                                   <li><input type="submit" className="btn btn-default" name="add_to_cart" defaultValue="Add To Cart" tabIndex={-1} /></li>
                                   <li>
-                                    <a className="btn btn-default" href="http://www.alsafakw.org/sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
+                                    <a className="btn btn-default" href="sponsorship_category/sponsorship_project/Mzg" tabIndex={-1}><span className="sponsor_metext">Sponsor Me</span></a>
                                     {/* <input type="submit" class="btn btn-default btn-default2" name="add_to_cart" value="Sponsor Me" /> */}
                                   </li>
                                 </ul>

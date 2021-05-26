@@ -23,8 +23,8 @@ const Volnew = () => {
               </div>
               <nav>
                 <ul className="control-box pager">
-                  <li><a data-slide="prev" href="http://www.alsafakw.org/#myCarousel" className><i className="fa fa-angle-left" /></a></li>
-                  <li><a data-slide="next" href="http://www.alsafakw.org/#myCarousel" className><i className="fa fa-angle-right" /></a></li>
+                  <li><a data-slide="prev" href="/#myCarousel" className><i className="fa fa-angle-left" /></a></li>
+                  <li><a data-slide="next" href="/#myCarousel" className><i className="fa fa-angle-right" /></a></li>
                 </ul>
               </nav>
               <div className="carousel-inner">

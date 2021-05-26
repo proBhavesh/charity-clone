@@ -39,15 +39,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzA" tabIndex={-1}>
+                            <a href="/project_checkout/project_category_detail/MzA" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzA" tabIndex={-1}>external demo</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/MzA" tabIndex={-1}>external demo</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzA" tabIndex={-1}>external demo</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/MzA" tabIndex={-1}>external demo</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry....</p>
@@ -110,15 +110,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/MjI" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/MjI" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MjI" tabIndex={-1}>shewing demo</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/MjI" tabIndex={-1}>shewing demo</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MjI" tabIndex={-1}>shewing demo</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/MjI" tabIndex={-1}>shewing demo</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry....</p>
@@ -181,15 +181,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/MTg" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/MTg" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MTg" tabIndex={-1}>farm demo</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/MTg" tabIndex={-1}>farm demo</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MTg" tabIndex={-1}>farm demo</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/MTg" tabIndex={-1}>farm demo</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry....</p>
@@ -252,15 +252,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/Nzc" tabIndex={0}>
+                            <a href="project_checkout/project_category_detail/Nzc" tabIndex={0}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={0}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/Nzc" tabIndex={0}>Khawaja Mosque</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={0}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/Nzc" tabIndex={0}>Khawaja Mosque</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/Nzc" tabIndex={0}>Khawaja Mosque</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/Nzc" tabIndex={0}>Khawaja Mosque</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Is the voltage provided by man to his community with his own will and in exchange for nothing...</p>
@@ -322,15 +322,15 @@ const Cp = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTU" tabIndex={0}>
+                            <a href="project_checkout/project_category_detail/NTU" tabIndex={0}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={0}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTU" tabIndex={0}>School</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={0}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/NTU" tabIndex={0}>School</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTU" tabIndex={0}>School</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/NTU" tabIndex={0}>School</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
@@ -392,15 +392,15 @@ const Cp = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTQ" tabIndex={0}>
+                            <a href="project_checkout/project_category_detail/NTQ" tabIndex={0}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={0}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTQ" tabIndex={0}>Cows</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={0}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/NTQ" tabIndex={0}>Cows</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTQ" tabIndex={0}>Cows</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/NTQ" tabIndex={0}>Cows</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>A developmental project that aims to chaste the widows and their orphans, and encourage poor...</p>
@@ -462,15 +462,15 @@ const Cp = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTM" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/NTM" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTM" tabIndex={-1}>Sewing Machines</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/NTM" tabIndex={-1}>Sewing Machines</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTM" tabIndex={-1}>Sewing Machines</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/NTM" tabIndex={-1}>Sewing Machines</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>A development project aimed at improving the standard of living for widows and their orphans...</p>
@@ -532,15 +532,15 @@ const Cp = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDk" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/NDk" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDk" tabIndex={-1}>Building school in Indonesia</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/NDk" tabIndex={-1}>Building school in Indonesia</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDk" tabIndex={-1}>Building school in Indonesia</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/NDk" tabIndex={-1}>Building school in Indonesia</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>There is a need for standardized texts to assess reading performance, for multiple equivalent...</p>
@@ -602,15 +602,15 @@ const Cp = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDg" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/NDg" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDg" tabIndex={-1}>Widows Sponsorship</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/NDg" tabIndex={-1}>Widows Sponsorship</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDg" tabIndex={-1}>Widows Sponsorship</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/NDg" tabIndex={-1}>Widows Sponsorship</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>There is a need for standardized texts to assess reading performance, for multiple equivalent...</p>
@@ -673,15 +673,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDc" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/NDc" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDc" tabIndex={-1}>Bakery and coffee shop for orphanage</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/NDc" tabIndex={-1}>Bakery and coffee shop for orphanage</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDc" tabIndex={-1}>Bakery and coffee shop for orphanage</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/NDc" tabIndex={-1}>Bakery and coffee shop for orphanage</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>It aims to feed the orphans in the orphanage, the building with an area of 90 square meters...</p>
@@ -743,15 +743,15 @@ const Cp = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDQ" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/NDQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDQ" tabIndex={-1}>Continous Benefits</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/NDQ" tabIndex={-1}>Continous Benefits</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDQ" tabIndex={-1}>Continous Benefits</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/NDQ" tabIndex={-1}>Continous Benefits</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>There is a need for standardized texts to assess reading performance, for multiple equivalent...</p>
@@ -813,15 +813,15 @@ const Cp = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDE" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/NDE" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDE" tabIndex={-1}>Building Mosques 10x12 mts</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/NDE" tabIndex={-1}>Building Mosques 10x12 mts</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDE" tabIndex={-1}>Building Mosques 10x12 mts</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/NDE" tabIndex={-1}>Building Mosques 10x12 mts</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
@@ -884,15 +884,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzY" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/MzY" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzY" tabIndex={-1}>school demo</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/MzY" tabIndex={-1}>school demo</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzY" tabIndex={-1}>school demo</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/MzY" tabIndex={-1}>school demo</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry....</p>
@@ -955,15 +955,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzQ" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/MzQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzQ" tabIndex={-1}>sacrificial demo</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/MzQ" tabIndex={-1}>sacrificial demo</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzQ" tabIndex={-1}>sacrificial demo</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/MzQ" tabIndex={-1}>sacrificial demo</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry....</p>
@@ -1026,15 +1026,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzE" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/MzE" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzE" tabIndex={-1}>indoor demo</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/MzE" tabIndex={-1}>indoor demo</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzE" tabIndex={-1}>indoor demo</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/MzE" tabIndex={-1}>indoor demo</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry....</p>
@@ -1097,15 +1097,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzA" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/MzA" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzA" tabIndex={-1}>external demo</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/MzA" tabIndex={-1}>external demo</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzA" tabIndex={-1}>external demo</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/MzA" tabIndex={-1}>external demo</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry....</p>
@@ -1168,15 +1168,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/MjI" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/MjI" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MjI" tabIndex={-1}>shewing demo</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/MjI" tabIndex={-1}>shewing demo</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MjI" tabIndex={-1}>shewing demo</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/MjI" tabIndex={-1}>shewing demo</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry....</p>
@@ -1239,15 +1239,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/MTg" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/MTg" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MTg" tabIndex={-1}>farm demo</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/MTg" tabIndex={-1}>farm demo</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MTg" tabIndex={-1}>farm demo</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/MTg" tabIndex={-1}>farm demo</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry....</p>
@@ -1310,15 +1310,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/Nzc" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/Nzc" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/Nzc" tabIndex={-1}>Khawaja Mosque</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/Nzc" tabIndex={-1}>Khawaja Mosque</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/Nzc" tabIndex={-1}>Khawaja Mosque</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/Nzc" tabIndex={-1}>Khawaja Mosque</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Is the voltage provided by man to his community with his own will and in exchange for nothing...</p>
@@ -1380,15 +1380,15 @@ const Cp = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTU" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/NTU" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTU" tabIndex={-1}>School</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/NTU" tabIndex={-1}>School</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTU" tabIndex={-1}>School</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/NTU" tabIndex={-1}>School</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
@@ -1450,15 +1450,15 @@ const Cp = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTQ" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/NTQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTQ" tabIndex={-1}>Cows</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/NTQ" tabIndex={-1}>Cows</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTQ" tabIndex={-1}>Cows</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/NTQ" tabIndex={-1}>Cows</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>A developmental project that aims to chaste the widows and their orphans, and encourage poor...</p>
@@ -1520,15 +1520,15 @@ const Cp = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTM" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/NTM" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTM" tabIndex={-1}>Sewing Machines</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/NTM" tabIndex={-1}>Sewing Machines</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NTM" tabIndex={-1}>Sewing Machines</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/NTM" tabIndex={-1}>Sewing Machines</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>A development project aimed at improving the standard of living for widows and their orphans...</p>
@@ -1590,15 +1590,15 @@ const Cp = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDk" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/NDk" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDk" tabIndex={-1}>Building school in Indonesia</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/NDk" tabIndex={-1}>Building school in Indonesia</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDk" tabIndex={-1}>Building school in Indonesia</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/NDk" tabIndex={-1}>Building school in Indonesia</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>There is a need for standardized texts to assess reading performance, for multiple equivalent...</p>
@@ -1660,15 +1660,15 @@ const Cp = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDg" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/NDg" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDg" tabIndex={-1}>Widows Sponsorship</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/NDg" tabIndex={-1}>Widows Sponsorship</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDg" tabIndex={-1}>Widows Sponsorship</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/NDg" tabIndex={-1}>Widows Sponsorship</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>There is a need for standardized texts to assess reading performance, for multiple equivalent...</p>
@@ -1731,15 +1731,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDc" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/NDc" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDc" tabIndex={-1}>Bakery and coffee shop for orphanage</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/NDc" tabIndex={-1}>Bakery and coffee shop for orphanage</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDc" tabIndex={-1}>Bakery and coffee shop for orphanage</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/NDc" tabIndex={-1}>Bakery and coffee shop for orphanage</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>It aims to feed the orphans in the orphanage, the building with an area of 90 square meters...</p>
@@ -1801,15 +1801,15 @@ const Cp = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDQ" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/NDQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDQ" tabIndex={-1}>Continous Benefits</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/NDQ" tabIndex={-1}>Continous Benefits</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDQ" tabIndex={-1}>Continous Benefits</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/NDQ" tabIndex={-1}>Continous Benefits</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>There is a need for standardized texts to assess reading performance, for multiple equivalent...</p>
@@ -1871,15 +1871,15 @@ const Cp = () => {
                       <li style={{width: '100%', display: 'inline-block'}}>
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDE" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/NDE" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDE" tabIndex={-1}>Building Mosques 10x12 mts</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/NDE" tabIndex={-1}>Building Mosques 10x12 mts</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/NDE" tabIndex={-1}>Building Mosques 10x12 mts</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/NDE" tabIndex={-1}>Building Mosques 10x12 mts</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
@@ -1940,15 +1940,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzY" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/MzY" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzY" tabIndex={-1}>school demo</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/MzY" tabIndex={-1}>school demo</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzY" tabIndex={-1}>school demo</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/MzY" tabIndex={-1}>school demo</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry....</p>
@@ -2011,15 +2011,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzQ" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/MzQ" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzQ" tabIndex={-1}>sacrificial demo</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/MzQ" tabIndex={-1}>sacrificial demo</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzQ" tabIndex={-1}>sacrificial demo</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/MzQ" tabIndex={-1}>sacrificial demo</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry....</p>
@@ -2082,15 +2082,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzE" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/MzE" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzE" tabIndex={-1}>indoor demo</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/MzE" tabIndex={-1}>indoor demo</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzE" tabIndex={-1}>indoor demo</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/MzE" tabIndex={-1}>indoor demo</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry....</p>
@@ -2153,15 +2153,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzA" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/MzA" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzA" tabIndex={-1}>external demo</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/MzA" tabIndex={-1}>external demo</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MzA" tabIndex={-1}>external demo</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/MzA" tabIndex={-1}>external demo</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry....</p>
@@ -2224,15 +2224,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/MjI" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/MjI" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MjI" tabIndex={-1}>shewing demo</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/MjI" tabIndex={-1}>shewing demo</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MjI" tabIndex={-1}>shewing demo</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/MjI" tabIndex={-1}>shewing demo</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry....</p>
@@ -2295,15 +2295,15 @@ const Cp = () => {
                         <div className="NewBlockSection">
                           <div className="ImgBlock">
                             <div className="ribbon ribbon-top-left"><span style={{background: '#f91302', color: '#ffffff'}}>Urgent</span></div>
-                            <a href="http://www.alsafakw.org/project_checkout/project_category_detail/MTg" tabIndex={-1}>
+                            <a href="project_checkout/project_category_detail/MTg" tabIndex={-1}>
                               <div className="Overlay" />
                               <img src={cpImg} alt />
                             </a>
                           </div>
                           <div className="SponsorText">
-                            <h1><span><a href="http://www.alsafakw.org/charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MTg" tabIndex={-1}>farm demo</a></span></h1>
+                            <h1><span><a href="charity_category/charity_category/Mg" tabIndex={-1}>Project</a></span> <i className="fa fa-angle-double-right" /> <span><a href="project_checkout/project_category_detail/MTg" tabIndex={-1}>farm demo</a></span></h1>
                             {/* <i class="fa fa-angle-double-right"></i> <span>Building Schools</span> </h1> */}
-                            <h2><a href="http://www.alsafakw.org/project_checkout/project_category_detail/MTg" tabIndex={-1}>farm demo</a></h2>
+                            <h2><a href="project_checkout/project_category_detail/MTg" tabIndex={-1}>farm demo</a></h2>
                             <div className="TextHeight">
                               <div className="txt_dc">
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry....</p>

@@ -25,20 +25,20 @@ const Navnew = () => {
               <h4>QUICK LINKS</h4>
               <div className="BorderBlock"><span /></div>
               <ul>
-                <li><a href="http://www.alsafakw.org/">HOME</a></li>
-                <li><a href="http://www.alsafakw.org/about_us">ABOUT US</a></li>
-                <li><a href="http://www.alsafakw.org/charity_category/charity_category/Mg">Projects</a></li>
-                <li><a href="http://www.alsafakw.org/charity_category/charity_category/MQ">Zakat</a></li>
-                <li><a href="http://www.alsafakw.org/charity_category/charity_category/Mw">Endowment</a></li>
-                {/* <li><a href="http://www.alsafakw.org/urgent">URGENT</a></li> */}
-                <li><a href="http://www.alsafakw.org/sponsorship_category">Sponsorship</a></li>
-                <li><a href="http://www.alsafakw.org/zakat_calculator">ZAKAT CALCULATOR</a></li>
-                <li><a href="http://www.alsafakw.org/pay_donation/pay_your_zakat">PAY ZAKAT</a></li>
-                <li><a href="http://www.alsafakw.org/campaigns_cat">CAMPAIGN</a></li>
-                <li><a href="http://www.alsafakw.org/welcome/wiretransfer">WIRE TRANSFER</a></li>
-                {/* <li><a href="http://www.alsafakw.org/charity_basket">CHARITY BASKET</a></li> */}
-                <li><a href="http://www.alsafakw.org/contact_us">CONTACT US</a></li>
-                <li><a href="http://www.alsafakw.org/terms_condition">TERMS OF USE</a></li>
+                <li><a href="">HOME</a></li>
+                <li><a href="about_us">ABOUT US</a></li>
+                <li><a href="charity_category/charity_category/Mg">Projects</a></li>
+                <li><a href="charity_category/charity_category/MQ">Zakat</a></li>
+                <li><a href="charity_category/charity_category/Mw">Endowment</a></li>
+                {/* <li><a href="urgent">URGENT</a></li> */}
+                <li><a href="sponsorship_category">Sponsorship</a></li>
+                <li><a href="zakat_calculator">ZAKAT CALCULATOR</a></li>
+                <li><a href="pay_donation/pay_your_zakat">PAY ZAKAT</a></li>
+                <li><a href="campaigns_cat">CAMPAIGN</a></li>
+                <li><a href="welcome/wiretransfer">WIRE TRANSFER</a></li>
+                {/* <li><a href="charity_basket">CHARITY BASKET</a></li> */}
+                <li><a href="contact_us">CONTACT US</a></li>
+                <li><a href="terms_condition">TERMS OF USE</a></li>
               </ul>
             </div>
           </div>
